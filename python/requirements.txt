@@ -1,0 +1,5 @@
+# Python 版依赖
+#   numpy  —— 数组/网格计算
+#   Pillow —— 图片读写与缩放
+numpy>=1.24
+Pillow>=10.0
